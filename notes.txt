@@ -1,0 +1,2 @@
+My Final goal is to calculate Total number of Odd Days.
+0-6 Odd days corresponds to Sunday to Saturday.

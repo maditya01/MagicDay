@@ -1,0 +1,36 @@
+#body {
+    margin: auto;
+    margin-top: 150px;
+    display: flex;
+    background-color: gainsboro;
+    height: 300px;
+    width: 900px;
+
+}
+
+#year {
+    background-color: green;
+    height: 260px;
+    width: 300px;
+}
+
+#day {
+    background-color: blue;
+    height: 260px;
+    width: 300px;
+}
+
+#month {
+    background-color: palegoldenrod;
+    height: 260px;
+    width: 300px;
+}
+
+#finaldate {
+   
+    background-color: cyan;
+}
+#ans {
+    margin: auto;
+    background-color: red;
+}
