@@ -1,2 +1,15 @@
 My Final goal is to calculate Total number of Odd Days.
 0-6 Odd days corresponds to Sunday to Saturday.
+Odd Day Calculator For Year:
+400 ,800,1200 me odd Day 0 hota hai.
+so I am taking Reference as 400 modulo.
+100 5odd day 200 3 odd day 300 1 odd day
+
+For <100year   : i am calculating how many leap years and how many ordinary years.
+leap year 2*leap Year.
+ordinary year same hi hoga.
+
+month ke liye 7 se devide kar do.
+days ke liye bhee 7 se devide kar do.
+
+finally sab ko add kar do 7 se modulo le lo.
