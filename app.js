@@ -94,41 +94,33 @@ btn.addEventListener('click', (e) => {
         let anshead = document.createElement('h2');
         switch (totalOddDay) {
             case 0:
-                console.log(totalOddDay);
-                console.log("Sunday");
                 anshead.innerText = " Day is :Sunday";
                 break;
             case 1:
-                console.log(totalOddDay);
-                console.log("Monday");
+
                 anshead.innerText = " Day is :Monday";
                 break;
             case 2:
-                console.log(totalOddDay);
-                console.log("Tuesday");
+
                 anshead.innerText = " Day is :Tuesday";
                 break;
             case 3:
-                console.log(totalOddDay);
-                console.log("Wednesday");
+
                 anshead.innerText = " Day is :Wednesday";
 
                 break;
             case 4:
-                console.log(totalOddDay);
-                console.log("Thursday");
+
                 anshead.innerText = " Day is :Thursday";
 
                 break;
             case 5:
-                console.log(totalOddDay);
-                console.log("Friday");
+
                 anshead.innerText = " Day is :Friday";
 
                 break;
             case 6:
-                console.log(totalOddDay);
-                console.log("Saturday");
+
                 anshead.innerText = " Day is :Saturday";
                 break;
             default:
